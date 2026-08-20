@@ -1,0 +1,17 @@
+{
+    "twitter_account": {
+        "username": "yang1011797",
+        "email": "1439909251@qq.com",
+        "password": "QAZ123plm"
+    },
+    "target_users": [
+        "cu9774845768448"
+    ],
+    "proxy": null,
+    "max_tweets": 100,
+    "download_media": true,
+    "output_dir": "output",
+    "media_dir": "media",
+    "save_format": "json",
+    "cookies_file": "cookies.json"
+}

@@ -1,0 +1,15 @@
+{
+    "twitter_account": {
+        "username": "",
+        "email": "",
+        "password": ""
+    },
+    "target_users": [],
+    "proxy": null,
+    "max_tweets": 100,
+    "download_media": true,
+    "output_dir": "output",
+    "media_dir": "media",
+    "save_format": "json",
+    "cookies_file": "cookies.json"
+}
